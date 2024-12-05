@@ -4,9 +4,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure </b>
-  - [Installing Windows Server 2022 on a virtual machine](https://github.com/Thabo-Malekanyo/windows-server2022-installation)
-  - [Installing and configuring On-premises Active Directory within Azure VM](https://github.com/Thabo-Malekanyo/configure-active-directory)
-  - [Joining a computer to a domain](https://github.com/Thabo-Malekanyo/join-computer-to-domain)
+  - [Installing Windows Server 2022 on a virtual machine]()
+  - [Installing and configuring On-premises Active Directory within Azure VM]()
+  - [Joining a computer to a domain](https://)
 
 
 <h2>🤳Connect with me:</h2>

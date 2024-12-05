@@ -6,7 +6,7 @@
 - <b>Microsoft Azure </b>
   - [Installing Windows Server 2022 on a virtual machine](https://github.com/Thabo-Malekanyo/Windows-Server-2022-installation?tab=readme-ov-file#windows-server-2022-installation)
   - [Installing and configuring On-premises Active Directory within Azure VM](https://github.com/Thabo-Malekanyo/Installing-and-configuring-Active-Directory?tab=readme-ov-file#installing-and-configuring-active-directory)
-  - [Joining a computer to a domain](https://)
+  - [Joining a computer to a domain](https://github.com/Thabo-Malekanyo/Joining-a-computer-to-a-domain?tab=readme-ov-file#joining-a-computer-to-a-domain)
 
 
 <h2>🤳Connect with me:</h2>
